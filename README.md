@@ -8,8 +8,11 @@
 **TypeScript**
 <br>
 **HTML**
+<br>
 **CSS**
+<br>
 **React**
+<br>
 **ChakraUI**
 
 **Rawg API Source:** [https://developer.themoviedb.org/](https://rawg.io/apidocs)
