@@ -5,7 +5,8 @@
 
 ## Code and Resources Used
 
-**TypeScript**<br>
+**TypeScript**
+<br>
 **HTML**
 **CSS**
 **React**
