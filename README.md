@@ -14,7 +14,8 @@
 **Rawg API Source:** [https://developer.themoviedb.org/](https://rawg.io/apidocs)
 
 Website UI:
-![Alt text](image.png)
+![image](https://github.com/Khlement/game-zone/assets/87413037/1b183b5b-c9bb-467f-898c-73090055efdb)
+
 Website Link: 
 [https://flix-app-eight.vercel.app/
 ](https://gamehubz.netlify.app/)https://gamehubz.netlify.app/
