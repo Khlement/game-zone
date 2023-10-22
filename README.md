@@ -1,6 +1,6 @@
 # game-zone
 
-- A website developed with react and typescript to dispaly videos games  using the publicly available **rawg**  API.
+- A website developed with react and typescript to display videos games  using the publicly available **rawg**  API.
 
 
 ## Code and Resources Used
@@ -24,4 +24,4 @@ Website UI:
 
 
 Website Link: 
-](https://gamehubz.netlify.app/)https://gamehubz.netlify.app/
+https://gamehubz.netlify.app/
