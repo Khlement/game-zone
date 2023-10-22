@@ -23,5 +23,5 @@ Website UI:
 ![image](https://github.com/Khlement/game-zone/assets/87413037/f1fb2e65-ded5-4a9f-a4d1-2d32604ac774)
 
 
-Website Link: 
+Website Link:
 https://gamehubz.netlify.app/
