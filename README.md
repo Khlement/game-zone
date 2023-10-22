@@ -24,5 +24,4 @@ Website UI:
 
 
 Website Link: 
-[https://flix-app-eight.vercel.app/
 ](https://gamehubz.netlify.app/)https://gamehubz.netlify.app/
